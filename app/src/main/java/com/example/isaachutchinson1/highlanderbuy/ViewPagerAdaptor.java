@@ -16,7 +16,7 @@ class ViewPagerAdaptor extends FragmentPagerAdapter {
     public ViewPagerAdaptor(FragmentManager fm) {
         super(fm);
     }
-
+///
     @Override
     public Fragment getItem(int position) {
         switch (position) {
