@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">HighlanderBuy</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="new_account">New Account</string>
+    <string name="new_account_reg">NEW ACCOUNT</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="listings">Listings</string>
+    <string name="favorites">Favorites</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email_sign_in">Email Sign in</string>
+    <string name="welcome_highlander">Welcome Highlander!</string>
+    <string name="account_creation">Account Creation</string>
+    <string name="name_here">Name Here</string>
+    <string name="active_listings">Active Listings:</string>
+    <string name="new_Listing">New Listing</string>
+    <string name="logout">Logout</string>
+    <string name="sort">sort</string>
+    <string name="Sort">Sort</string>
+    <string name="imageadd">ADD IMAGE</string>
+    <string name="Title">Title</string>
+    <string name="Description">Description</string>
+    <string name="newListing">Create Listing</string>
+</resources>
